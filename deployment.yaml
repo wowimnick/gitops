@@ -16,6 +16,6 @@ spec:
         app: web
     spec:
       containers:
-      - image: nginx
+      - image: 459929160817.dkr.ecr.us-east-1.amazonaws.com/sandbox:cb881fd2be90b3ff0f98f4ba803084db1be566fb
         name: nginx
         resources: {}
